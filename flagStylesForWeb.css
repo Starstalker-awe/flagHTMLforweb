@@ -1,0 +1,1176 @@
+.albaniaConatiner{
+	width:calc(200px * 1.4);
+	height:200px;
+	background-color:#E41E20;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#albaniaImg{
+	width:calc((200px * 1.4) / 2);
+	height:auto;
+	position:absolute;
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/albaniaCoatofArms.png");
+	border:0.25px solid #E41E20;
+	top:90px;
+	left:80px;
+}
+.armeniaTop{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#DA000A;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.armeniaMiddle{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#0030A1;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.armeniaBottom{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#F2AA00;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.austriaTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#ED2939;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.austriaMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.austriaBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#ED2939;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#bahamasContainer{
+	width:400px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#bahamasTriangle{
+	width:0px;
+	height:0px;
+	border-top:150px solid transparent;
+	border-left:150px solid black;
+	border-bottom:150px solid transparent;
+	transform:scaleY(0.67);
+	margin-top:-50px;
+	margin-bottom:-50px;
+	float:left;
+}
+.bahamasBlue{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#00788C;
+}
+.bahamasYellow{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#FFC828;
+}
+.belgiumLeft{
+	width:calc(230.769px / 3);
+	height:200px;
+	background-color:black;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.belgiumMiddle{
+	width:calc(230.769px / 3);
+	height:200px;
+	background-color:#FDDA24;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.belgiumRight{
+	width:calc(230.769px / 3);
+	height:200px;
+	background-color:#EF3340;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+#beninContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+.beninLeft{
+	width:120px;
+	height:200px;
+	background-color:#008850;
+	float:left;
+}
+.beninTop{
+	width:180px;
+	height:100px;
+	background-color:#FCD20F;
+	margin-left:120px;
+}
+.beninBottom{
+	width:180px;
+	height:100px;
+	background-color:#E90929;
+	margin-left:120px;
+}
+#botswanaContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+.botswanaBlue{
+	width:300px;
+	height:75px;
+	background-color:#76ACDC;
+}
+.botswanaWhite{
+	width:300px;
+	height:5px;
+	background-color:white;
+}
+.botswanaGrey{
+	width:300px;
+	height:5px;
+	background-color:#ABACAC;
+}
+.botswanaBlack{
+	width:300px;
+	height:30px;
+	background-color:black;
+}
+.bulgariaTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.bulgariaMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#00966E;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.bulgariaBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#D62612;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#cARContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+.cARStar{
+	width:60px;
+	height:60px;
+	transform:scale(0.6);
+	background-image:url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/yellowStarPng(CAR).png");
+	margin-top:-8px;
+	margin-left:23px;
+	float:left;
+}
+.cARTop{
+	width:300px;
+	height:50px;
+	background-color:#002C83;
+}
+.cARMiddleTop{
+	width:300px;
+	height:50px;
+	background-color:white;
+}
+.cARMiddleBottom{
+	width:300px;
+	height:50px;
+	background-color:#239823;
+}
+.cARBottom{
+	width:300px;
+	height:50px;
+	background-color:#FFCF00;
+}
+.cARStripe{
+	width:50px;
+	height:50px;
+	background-color:#D30731;
+	position:relative;
+	z-index:1;
+	left:125px;
+}
+#chileContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#chileTopLeftContainer{
+	width:100px;
+	height:100px;
+	background-color:#0039A6;
+	margin-top:0.5px;
+}
+#chileStar{
+	width:60px;
+	height:60px;
+	transform:scale(0.85);
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/whiteStarPng.png");
+	padding-top:200px;
+	padding-left:250px;
+	background-repeat:no-repeat;
+}
+.chileR1White{
+	width:199px;
+	height:100px;
+	background-color:white;
+	margin-top:-99px;
+	margin-left:100px;
+}
+.chileBottom{
+	width:300px;
+	height:100px;
+	background-color:#D62718;
+	margin-top:-1px;
+}
+.colombiaTop{
+	width:300px;
+	height:100px;
+	background-color:#FCD116;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.colombiaMiddle{
+	width:300px;
+	height:50px;
+	background-color:#003893;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.colombiaBottom{
+	width:300px;
+	height:50px;
+	background-color:#CE1126;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#cubaContainer{
+	width:400px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#cubaTriangle{
+	width:0px;
+	height:0px;
+	border-top:100px solid transparent;
+	border-left:200px solid #D00C27;
+	border-bottom:100px solid transparent;
+	transform:scaleX(0.65);
+	margin-left:-35px;
+	float:left;
+}
+#cubaStar{
+	width:60px;
+	height:60px;
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/whiteStarPng.png");
+}
+#gabonContainer{
+	width:266.666px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+.gabonTop{
+	width:266.666px;
+	height:calc(200px / 3);
+	background-color:#009F60;
+}
+.gabonMiddle{
+	width:266.666px;
+	height:calc(200px / 3);
+	background-color:#FCD20F;
+}
+.gabonBottom{
+	width:266.666px;
+	height:calc(200px / 3);
+	background-color:#3776C;5
+}
+#guineaContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+.guineaLeft{
+	width:100px;
+	height:200px;
+	background-color:#CF0921;
+	float:left;
+}
+.guineaMiddle{
+	width:100px;
+	height:200px;
+	background-color:#FCD20F;
+	float:left;
+}
+.guineaRight{
+	width:100px;
+	height:200px;
+	background-color:#009560;
+	float:left;
+}
+.hungaryTop{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#CE253C;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.hungaryMiddle{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.hungaryBottom{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#41704C;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.indonesiaTop{
+	width:300px;
+	height:100px;
+	background-color:red;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.indonesiaBottom{
+	width:300px;
+	height:100px;
+	background-color:white;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.irelandLeft{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:#169B62;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.irelandMiddle{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:white;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.irelandBottom{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:#FF883E;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.italyLeft{
+	width:100px;
+	height:200px;
+	background-color:#008C45;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.italyMiddle{
+	width:100px;
+	height:200px;
+	background-color:#F4F5F0;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.italyRight{
+	width:100px;
+	height:200px;
+	background-color:#CD212A;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.ivoryCoastLeft{
+	width:100px;
+	height:200px;
+	background-color:#F78000;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.ivoryCoastMiddle{
+	width:100px;
+	height:200px;
+	background-color:white;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.ivoryCoastRight{
+	width:100px;
+	height:200px;
+	background-color:#009F60;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+#japanContainer{
+	width:300px;
+	height:200px;
+	background-color:white;
+	border:3px solid black;
+}
+#japanCircle{
+	width:calc(200px * (3 / 5));
+	height:calc(200px * (3 / 5));
+	background-color:#BD0029;
+	border-radius:50%;
+	margin-top:40px;
+	margin-left:85px;
+}
+#kuwaitTrapezoid{
+	height:100px;
+    transform:scaleY(0.665);
+	border-left:100px solid black;
+	border-top:calc(300px / 3) solid transparent;
+	border-bottom:calc(300px / 3) solid transparent;
+	float:left;
+	margin-top:-46.75px;
+	margin-bottom:-46px;
+	margin-left:3px;
+	z-index:999;
+}
+.kuwaitTop{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#007A3D;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.kuwaitMiddle{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.kuwaitBottom{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#CE1126;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.latviaTop{
+	width:400px;
+	height:80px;
+	background-color:#9F2C36;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.latviaMiddle{
+	width:400px;
+	height:40px;
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.latviaBottom{
+	width:400px;
+	height:80px;
+	background-color:#9F2C36;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#liberiaContainer{
+	width:380px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#liberiaTopLeftContainer{
+	width:80px;
+	height:80px;
+	background-color:#002368;
+	float:left;
+	z-index:999;
+}
+#liberiaStar{
+	width:60px;
+	height:60px;
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/whiteStarPng.png");
+	transform:scale(0.75);
+	padding-top:65px;
+	padding-left:65px;
+	background-repeat:no-repeat;
+}
+.liberiaRedStripe{
+	width:380px;
+	height:20px;
+	background-color:#C0032C;
+}
+.liberiaWhiteStripe{
+	width:380px;
+	height:20px;
+	background-color:white;
+}
+.madagascarLeft{
+	width:100px;
+	height:200px;
+	background-color:white;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.madagascarTop{
+	width:200px;
+	height:100px;
+	background-color:#FC3D32;
+	border-top:3px solid black;
+	border-right:3px solid black;
+	margin-left:100px;
+}
+.madagascarBottom{
+	width:200px;
+	height:100px;
+	background-color:#007E3A;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	margin-left:100px;
+}
+.maliLeft{
+	width:100px;
+	height:200px;
+	background-color:#14B53A;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.maliMiddle{
+	width:100px;
+	height:200px;
+	background-color:#FCD116;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.maliRight{
+	width:100px;
+	height:200px;
+	background-color:#CE1126;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.mauritiustTop{
+	width:300px;
+	height:50px;
+	background-color:#EA2839;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.mauritiusMiddleTop{
+	width:300px;
+	height:50px;
+	background-color:#1A206D;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.mauritiusMiddleBottom{
+	width:300px;
+	height:50px;
+	background-color:#FFD500;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.mauritiusBottom{
+	width:300px;
+	height:50px;
+	background-color:#00A551;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.netherlandsTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#AE1C28;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.netherlandsMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.netherlandsBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#21468B;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.nigeriaLeft{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:#008751;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.nigeriaMiddle{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:white;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.nigeriaRight{
+	width:calc(400px / 3);
+	height:200px;
+	background-color:#008751;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.peruLeft{
+	width:100px;
+	height:200px;
+	background-color:#DA071E;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.peruMiddle{
+	width:100px;
+	height:200px;
+	background-color:white;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.peruRight{
+	width:100px;
+	height:200px;
+	background-color:#DA071E;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.romaniaLeft{
+	width:100px;
+	height:200px;
+	background-color:#002780;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.romaniaMiddle{
+	width:100px;
+	height:200px;
+	background-color:#FCD20F;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	float:left;
+}
+.romaniaRight{
+	width:100px;
+	height:200px;
+	background-color:#CF0921;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	float:left;
+}
+.russiaTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.russiaMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#0036A8;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.russiaBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#D62718;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.sierraLeoneTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#1EB53A;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.sierraLeoneMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.sierraLeoneBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#0072C6;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.southOssetiaTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.southOssetiaMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#ffdf00;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.southOssetiaBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:red;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#sudanContainer{
+	width:400px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#sudanTriangle{
+	width:0px;
+	height:0px;
+	border-top:150px solid transparent;
+	border-left:150px solid #007324;
+	border-bottom:150px solid transparent;
+	transform:scaleY(0.67);
+	margin-top:-50px;
+	margin-bottom:-50px;
+	float:left;
+}
+.sudanTop{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:#D30731;
+}
+.sudanMiddle{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:white;
+}
+.sudanBottom{
+	width:400px;
+	height:calc(200px / 3);
+	background-color:black;
+}
+.swissContainer{
+	width:200px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#redSqr6by6{
+	width:calc((200px / 32) * 6);
+	height:calc((200px / 32) * 6);
+	background-color:#D52B1E;
+	float:left;
+}
+#redSqr7by6{
+	width:calc((200px / 32) * 7);
+	height:calc((200px / 32) * 6);
+	background-color:#D52B1E;
+	float:left;
+}
+#redSqr6by7{
+	width:calc((200px / 32) * 6);
+	height:calc((200px / 32) * 7);
+	background-color:#D52B1E;
+	float:left;
+}
+#redSqr7by7{
+	width:calc((200px / 32) * 7);
+	height:calc((200px / 32) * 7);
+	background-color:#D52B1E;
+	float:left;
+}
+#whiteSqr6by7{
+	width:calc((200px / 32) * 6);
+	height:calc((200px / 32) * 7);
+	background-color:white;
+	float:left;
+}
+#whiteSqr7by6{
+	width:calc((200px / 32) * 7);
+	height:calc((200px / 32) * 6);
+	background-color:white;
+	float:left;
+}
+#whiteSqr6by6{
+	width:calc((200px / 32) * 6);
+	height:calc((200px / 32) * 6);
+	background-color:white;
+	float:left;
+}
+#thailandContainer{
+	width:300px;
+	height:200px;
+	border:3px solid black;
+}
+.thailandRed{
+	width:300px;
+	height:35px;
+	background-color:#A6122D;
+}
+.thailandWhite{
+	width:300px;
+	height:30px;
+	background-color:white;
+}
+.thailandBlue{
+	width:300px;
+	height:70px;
+	background-color:#292549;
+}
+#togoContainer{
+	width:323.6px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#togoTopLeftContainer{
+	width:120px;
+	height:120px;
+	background-color:#D30731;
+	float:left;
+}
+#togoStar{
+	width:60px;
+	height:60px;
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/whiteStarPng.png");
+	position:absolute;
+	transform:scale(1.166);
+	margin-top:25px;
+	margin-left:30px;
+}
+.togoGreen{
+	width:323.6px;
+	height:40px;
+	background-color:#006A4D;
+}
+.togoYellow{
+	width:323.6px;
+	height:40px;
+	background-color:#FFCF00;
+}
+#tongaContainer{
+	width:400px;
+	height:200px;
+	background-color:#C20000;
+	border:3px solid black;
+}
+#tongaTopLeftConatiner{
+	width:165px;
+	height:100px;
+	background-color:white;
+	float:left;
+}
+.tongaSection1{
+	width:70px;
+	height:40px;
+	background-color:white;
+	float:left;
+}
+.tongaSection2{
+	width:95px;
+	height:15px;
+	background-color:white;
+	margin-left:70px;
+}
+.tongaSection3{
+	width:25px;
+	height:25px;
+	background-color:#C20000;
+	margin-top:15px;
+	float:left;
+}
+.tongaSection4{
+	width:70px;
+	height:25px;
+	background-color:white;
+	margin-top:-25px;
+	margin-left:25px;
+	float:left;
+}
+.tongaSection5{
+	width:45px;
+	height:20px;
+	background-color:white;
+	margin-left:-70px;
+	float:left;
+}
+.tongaSection6{
+	width:75px;
+	height:20px;
+	background-color:#C20000;
+	margin-left:-25px;
+	float:left;
+}
+.tongaSection7{
+	width:45px;
+	height:20px;
+	background-color:white;
+	margin-top:-20px;
+	margin-left:50px;
+	float:left;
+}
+.tongaSection8{
+	width:70px;
+	height:20px;
+	background-color:white;
+	margin-left:-70px;
+	float:left;
+}
+.tongaSection9{
+	width:25px;
+	height:25px;
+	background-color:#C20000;
+	float:left;
+}
+.tongaSection10{
+	width:70px;
+	height:20px;
+	background-color:white;
+	margin-top:-25px;
+	margin-left:25px;
+	float:left;
+}
+.tongaSection11{
+	width:165px;
+	height:15px;
+	background-color:white;
+	margin-top:-5px;
+	margin-bottom:-5px;
+	margin-left:-70px;
+	margin-right:-70px;
+	float:left;
+}
+.ukraineTop{
+	width:300px;
+	height:100px;
+	background-color:#005BBB;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.ukraineBottom{
+	width:300px;
+	height:100px;
+	background-color:#FFD500;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.uAELeft{
+	width:100px;
+	height:200px;
+	background-color:red;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	float:left;
+}
+.uAETop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#00732F;
+	border-top:3px solid black;
+	border-right:3px solid black;
+	margin-left:100px;
+}
+.uAEMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-right:3px solid black;
+	margin-left:100px;
+}
+.uAEBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:black;
+	border-bottom:3px solid black;
+	border-right:3px solid black;
+	margin-left:100px;
+}
+.yemenTop{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:#CE1126;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.yemenMiddle{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:white;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+.yemenBottom{
+	width:300px;
+	height:calc(200px / 3);
+	background-color:black;
+	border-bottom:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+}
+#zambiaContainer{
+	width:300px;
+	height:200px;
+	background-color:transparent;
+	border:3px solid black;
+}
+#zambiaEagle{
+	width:110px;
+	height:70px;
+	background-image: url("https://raw.githubusercontent.com/Starstalker-awe/flagHTMLforweb/images/zambiaEagle.png");
+	position:absolute;
+	margin-left:190px;
+}
+.zambiaGreenBig{
+	width:190px;
+	height:200px;
+	background-color:#128B00;
+	float:left;
+}
+.zambiaGreenSmall{
+	width:110px;
+	height:70px;
+	background-color:#128B00;
+	margin-top:-200px;
+	margin-left:190px;
+	float:left;
+}
+.zambiaRed{
+	width:37px;
+	height:130px;
+	background-color:#DF1A07;
+	position:absolute;
+	margin-top:70px;
+	margin-left:190px;
+	float:left;
+}
+.zambiaBlack{
+	width:37px;
+	height:130px;
+	background-color:black;
+	position:absolute;
+	margin-top:70px;
+	margin-left:227px;
+	float:left;
+}
+.zambiaOrange{
+	width:36px;
+	height:130px;
+	background-color:#EF7E00;
+	position:absolute;
+	margin-top:70px;
+	margin-left:264px;
+	float:left;
+}
